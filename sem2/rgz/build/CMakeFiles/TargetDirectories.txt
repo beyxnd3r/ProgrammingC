@@ -1,0 +1,6 @@
+C:/Prog/rgz/build/CMakeFiles/triangle.dir
+C:/Prog/rgz/build/CMakeFiles/Triangle.dir
+C:/Prog/rgz/build/CMakeFiles/test_triangle.dir
+C:/Prog/rgz/build/CMakeFiles/test.dir
+C:/Prog/rgz/build/CMakeFiles/edit_cache.dir
+C:/Prog/rgz/build/CMakeFiles/rebuild_cache.dir

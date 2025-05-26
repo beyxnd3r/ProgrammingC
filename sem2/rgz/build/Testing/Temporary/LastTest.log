@@ -1,0 +1,19 @@
+Start testing: May 14 14:21 Новосибирское стандартное время
+----------------------------------------------------------
+1/1 Testing: TriangleTests
+1/1 Test: TriangleTests
+Command: "C:/Prog/rgz/build/test_triangle.exe"
+Directory: C:/Prog/rgz/build
+"TriangleTests" start time: May 14 14:21 Новосибирское стандартное время
+Output:
+----------------------------------------------------------
+All tests passed.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"TriangleTests" end time: May 14 14:21 Новосибирское стандартное время
+"TriangleTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 14 14:21 Новосибирское стандартное время
